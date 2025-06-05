@@ -15,3 +15,5 @@ After: https://drive.google.com/uc?export=view&id=your_file_id
 or instead of linking directly to the images, try embedding them using HTML  tags with the src attribute pointing directly to the Google Drive image URL.
 
 <img src="https://drive.google.com/uc?export=view&id=your_file_id" alt="Description">
+
+<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=1ahazCAO71GTRZM3oAeTC7QBibWZ_KBOW"/></a>
