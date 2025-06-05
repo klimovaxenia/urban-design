@@ -6,7 +6,7 @@ this is a new line
 [a relative link](plot-2/readme.md)
 
 image link
-![interior.](https://drive.google.com/uc?export=view&id=1ahazCAO71GTRZM3oAeTC7QBibWZ_KBOW)
+![](https://drive.google.com/uc?export=view&id=1ahazCAO71GTRZM3oAeTC7QBibWZ_KBOW)
 
 ## How to put an image
 
