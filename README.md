@@ -10,6 +10,6 @@ https://www.markdownguide.org/basic-syntax/
 
 [link to plot 2 page](plot-2/readme.md)
 
-
+![](img/plot-3/)
 
 
