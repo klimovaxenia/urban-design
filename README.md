@@ -7,7 +7,7 @@ this is a new line
 
 ### image link
 
-![](https://drive.google.com/thumbnail?id=1ahazCAO71GTRZM3oAeTC7QBibWZ_KBOW&sz&sz=w1000)
+![](https://photos.app.goo.gl/pyZJogi3KU2j3f9k9)
 
   https://drive.google.com/uc?export=view&id={ID}
   https://drive.google.com/thumbnail?id=1ahazCAO71GTRZM3oAeTC7QBibWZ_KBOW&sz=w1000
