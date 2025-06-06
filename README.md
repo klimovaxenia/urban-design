@@ -22,6 +22,23 @@ https://www.markdownguide.org/basic-syntax/
 ![](img/plot-3/random-img.jpg)
 
 
-### Example of how to write links to videos in MD
+### Example of how to write links to videos and other outer files in MD
 
-[![link to the video](img/plot-3/random-img.jpg)](https://drive.google.com/file/d/1lwVCk1NPaKb7CId14bezrcinyY9xZ1w1/view?usp=sharing)
+Basicaly you have two options. In both cases you should put video in some sort platform where others can access it - GoogleDisk or YouTube for example.
+- First option is to do a text link to your video
+<!-- language: lang-none -->
+    [link to video on GoogleDisk](https://drive.google.com/file/d/1lwVCk1NPaKb7CId14bezrcinyY9xZ1w1/view?usp=sharing)
+    [link to video on YouTube](https://youtu.be/GwjGA_xmmVI)
+
+[link to video on YouTube](https://youtu.be/GwjGA_xmmVI)
+
+
+- Second is to do a image link
+
+<!-- language: lang-none -->
+    [![link to the video on GooglDisk](img/plot-3/random-img.jpg)](https://drive.google.com/file/d/1lwVCk1NPaKb7CId14bezrcinyY9xZ1w1/view?usp=sharing)
+    [![link to the video on YouTube](img/plot-3/random-img.jpg)](https://youtu.be/GwjGA_xmmVI)
+
+[![link to the video](https://i.sstatic.net/Vp2cE.png)](https://drive.google.com/file/d/1lwVCk1NPaKb7CId14bezrcinyY9xZ1w1/view?usp=sharing)
+
+This picture just imitating a video
