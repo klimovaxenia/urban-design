@@ -25,3 +25,5 @@ https://www.markdownguide.org/basic-syntax/
 ### Example of how to write links to videos in MD
 
 [![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/GwjGA_xmmVI)
+
+[![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/GwjGA_xmmVI)
