@@ -24,4 +24,4 @@ https://www.markdownguide.org/basic-syntax/
 
 ### Example of how to write links to videos in MD
 
-[![Watch the video]()](img/plot-3/tiergatren-picnic.mov)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](/urban/design/img/plot-3/tiergatren-picnic.mov)
