@@ -22,3 +22,6 @@ https://www.markdownguide.org/basic-syntax/
 ![](img/plot-3/random-img.jpg)
 
 
+### Example of how to write links to videos in MD
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](img/plot-3/tiergarten-picnic)
